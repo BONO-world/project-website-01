@@ -4,7 +4,7 @@
 
 <script>
 
-import AboutComponent from './components/AboutComponent.vue';
+import AboutComponent from './components/HelloWorld.vue';
 
 export default {
   name: 'App',
